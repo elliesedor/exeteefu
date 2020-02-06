@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://owequaseet.xn--pltsligthnderdet-3nb03a.net/sitemap.xml
